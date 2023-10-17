@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616713123067",
+    "project_id": "test-log-events",
+    "storage_bucket": "test-log-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616713123067:android:1079afb1f6fce18cc06c5e",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1k-sIIo4y3flgCNVbX_rmjtEYm1zWink"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616713123067:android:1a91171ae40a38c1c06c5e",
+        "android_client_info": {
+          "package_name": "com.example.test_log_events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1k-sIIo4y3flgCNVbX_rmjtEYm1zWink"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
